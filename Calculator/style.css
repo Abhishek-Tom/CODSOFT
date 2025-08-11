@@ -1,0 +1,301 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#main {
+    width: 100%;
+    height: 100%;
+    background:white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box {
+    width: 25%;
+    height: 70%;
+    border-radius: 25px;
+    background: black;
+}
+#display{
+    width: 95%;
+    height: 20%;
+    border-radius: 25px;
+    background: whitesmoke;
+    margin: 10px 10px;
+    text-align: right;
+    font-size: 50px;
+    
+}
+
+#strip1{
+    height: 13%;
+    width: 95%;
+    background: black;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+#button1{
+    height: 100%;
+    width: 23%;
+    background-color: silver;
+    color: black;
+    border-radius: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#button2{
+    height: 100%;
+    width: 23%;
+    background-color: silver;
+    color: black;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#button3{
+    height: 100%;
+    width: 23%;
+    background-color: silver;
+    color: black;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#button4{
+    height: 100%;
+    width: 23%;
+    background-color: orange;
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#strip2{
+    height: 13%;
+    width: 95%;
+    background: black;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+#button5{
+    height: 100%;
+    width: 23%;
+    background-color: rgb(83, 81, 81);
+    color: white;
+    border-radius: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#button6{
+    height: 100%;
+    width: 23%;
+    background-color:rgb(83, 81, 81);
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#button7{
+    height: 100%;
+    width: 23%;
+    background-color: rgb(83, 81, 81);
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#button8{
+    height: 100%;
+    width: 23%;
+    background-color: orange;
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#strip3{
+    height: 13%;
+    width: 95%;
+    background: black;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    
+}
+
+#button9{
+    height: 100%;
+    width: 23%;
+    background-color: rgb(83, 81, 81);
+    color: white;
+    border-radius: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#button10{
+    height: 100%;
+    width: 23%;
+    background-color:rgb(83, 81, 81);
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#button11{
+    height: 100%;
+    width: 23%;
+    background-color: rgb(83, 81, 81);
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#button12{
+    height: 100%;
+    width: 23%;
+    background-color: orange;
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#strip4{
+   height: 13%;
+    width: 95%;
+    background: black;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+#button13{
+    height: 100%;
+    width: 23%;
+    background-color:rgb(83, 81, 81);
+    color: white;
+    border-radius: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#button14{
+    height: 100%;
+    width: 23%;
+    background-color:rgb(83, 81, 81);
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#button15{
+    height: 100%;
+    width: 23%;
+    background-color: rgb(83, 81, 81);
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#button16{
+    height: 100%;
+    width: 23%;
+    background-color:orange;
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+
+#strip5{
+    height: 13%;
+    width: 95%;
+    background: black;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+#button17{
+    height: 100%;
+    width: 49%;
+    background-color: rgb(83, 81, 81);
+    color: white;
+    border-radius: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#button18{
+    height: 100%;
+    width: 23%;
+    background-color: rgb(83, 81, 81);
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#button19{
+    height: 100%;
+    width: 23%;
+    background-color: orange;
+    color: white;
+    border-radius: 52px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+

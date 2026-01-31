@@ -1,5 +1,5 @@
-Calculator: https://abhishek-tom.github.io/CODSOFT/Calculator/
+Calculator: https://abhishek210201.github.io/CODSOFT/Calculator/
 
-Landing Page: https://abhishek-tom.github.io/CODSOFT/Landing%20Page/
+Landing Page: https://abhishek210201.github.io/CODSOFT/Landing%20Page/
 
-Portfolio: https://abhishek-tom.github.io/CODSOFT/Portfolio/
+Portfolio: https://abhishek210201.github.io/CODSOFT/Portfolio/
